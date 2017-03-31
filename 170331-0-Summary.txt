@@ -1,0 +1,9 @@
+Recently, I felt that I reached a bottleneck. I was used to coding with normal problem and found I need a lot of time working out a difficult one. It made me disappointed.
+
+I knew I was lack of many knowledge of CS but I have no idea about where to begin.
+
+I tried something interesting like Github Pages, Github Desktop, Node js and hexo. I wanted to have my own blogs. I wanted to summarize what I have done and find what I need to do. Actually I did something but unfortunately I didn’t understand what I did.
+
+Oh! I also install Macvim. It seem cool. I hope I can be touched by its power.
+
+I stopped coding in 《Coding Interview》 now and consider how to improve myself.
